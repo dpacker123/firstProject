@@ -1,0 +1,6 @@
+Pens,2,40
+Paper,1,100
+Pencil,1,55
+Eraser,2,15
+Folder,5,10
+Binder,6,7
